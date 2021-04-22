@@ -8,7 +8,7 @@
 </pre>
 
 
-## activity
+## Activity
 <pre>
  ---> Splashscreen activity is the first activity used to display logo and animation.
  ---> Main activity which includes login session using google signin button.
@@ -30,7 +30,7 @@
 -- finally send me a pull request. Yah !!! you did it.
 </pre>
 
-## refer this page for extra information on how to contribute
+## Kindly refer this page for detailed information on how to contribute to github projects
 https://www.dataschool.io/how-to-contribute-on-github/
 
   
