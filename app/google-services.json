@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433213353021",
+    "firebase_url": "https://bookportal-311403-default-rtdb.firebaseio.com",
+    "project_id": "bookportal-311403",
+    "storage_bucket": "bookportal-311403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433213353021:android:9aefe6883a052dcc2cce54",
+        "android_client_info": {
+          "package_name": "com.aashika.bookportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433213353021-4ph67d4i6fdksvd0f7hic3hupubfgpss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aashika.bookportal",
+            "certificate_hash": "c1ee604ea56f30217221cde1e5cb6f81608b90cf"
+          }
+        },
+        {
+          "client_id": "433213353021-415flkrkacqi4kn4nr8rdoase0dikmor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQaqDKw6Q03i0AhT5x1t9NOFjbFszIOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433213353021-415flkrkacqi4kn4nr8rdoase0dikmor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
