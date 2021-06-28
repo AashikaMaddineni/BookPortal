@@ -12,7 +12,7 @@
 <pre>
  ---> Splashscreen activity is the first activity used to display logo and animation.
  ---> Main activity which includes login session using google signin button.
- ---> Activity Welcome Page had a recycler view layout for retrivity data from backend and display items as list.
+ ---> Activity Welcome Page had a recycler view layout for retriving data from backend and display items as list.
  ---> Book_view activity for fetching pdf file from firebase realtimedatabase into pdf View when clicked on item in recycler view.
  </pre>
 
